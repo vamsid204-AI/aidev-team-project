@@ -1,0 +1,16 @@
+agent,merged,created_at,lines_changed
+Codex,1,2024-01-15,45
+Codex,0,2024-02-10,120
+Devin,1,2024-01-20,30
+Devin,1,2024-03-05,60
+Copilot,0,2024-02-18,15
+Copilot,1,2024-01-25,90
+Cursor,1,2024-03-12,25
+Cursor,0,2024-02-28,200
+Claude Code,1,2024-01-30,50
+Claude Code,1,2024-03-20,75
+Codex,1,2024-04-02,40
+Devin,0,2024-04-10,150
+Copilot,1,2024-04-15,35
+Cursor,1,2024-04-20,55
+Claude Code,0,2024-04-25,180
